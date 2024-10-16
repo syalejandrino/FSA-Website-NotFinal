@@ -1,4 +1,6 @@
-This template should help get you started developing with Vue 3 in Vite.
+## FSA-Website
+
+This website, built with Vue.js, aims to promote events, share resources, and serve as a blog for Filipino students at DePauw University to celebrate their culture.
 
 ## Recommended IDE Setup
 
